@@ -1,0 +1,22 @@
+# Core scientific computing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+h5py
+
+# Jupyter environment
+jupyter
+notebook
+ipykernel
+ipywidgets
+
+# Deep learning (match notebook ~2.19, allow 2.20)
+tensorflow>=2.19,<2.21 

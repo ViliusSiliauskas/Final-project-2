@@ -39,4 +39,4 @@ dist/
 
 # Ensure all CSV files are tracked (even if broader patterns are added later)
 !*.csv
-!**/*.csv
+!**/*.csv 
