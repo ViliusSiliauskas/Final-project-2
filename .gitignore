@@ -1,0 +1,42 @@
+# Python bytecode and artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+.Python
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Build / dist / caches
+build/
+dist/
+.pytest_cache/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Large model/data binaries (keep these out of git)
+*.h5
+*.pkl
+*.joblib
+
+# Ensure all CSV files are tracked (even if broader patterns are added later)
+!*.csv
+!**/*.csv
